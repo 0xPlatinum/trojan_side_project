@@ -3,3 +3,4 @@ send a reverse shell every 3 seconds. It also makes itself persistent between re
 the user is currently using and adds the rev shell to it. If they remove the change, it will be added back shortly.
 however, sadly, i only found that this works if they run nohup python3 trojan.py > /dev/null 2>&1.
 maybe i find a new way in the future.
+also, it makes a file called "here" so i know it works lol
